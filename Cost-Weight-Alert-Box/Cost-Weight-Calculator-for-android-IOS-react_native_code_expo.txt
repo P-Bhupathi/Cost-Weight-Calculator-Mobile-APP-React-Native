@@ -1,0 +1,35 @@
+1) Source code:
+
+   https://drive.google.com/file/d/1zn3hDCYaN8nwHG6z_d4UHyypC_qBN8H8/view?usp=drivesdk
+
+2) App link:
+   
+   https://drive.google.com/file/d/1-6G_mSJOCqeo3gmI2UH0R0CaXv3bBfok/view?usp=drivesdk
+
+
+-------------------------------------------------------------------Procedure 1----------------------------------------------------------------------------
+1. Use 1st link to download compressed file and then extract it.
+2. Install "Node" in windows.
+3. Type "npm install --global expo-cli" in command prompt.
+4. Open visual code studio in "Cost-Weight-Alert-Box/app/" directory (Which is extracted in 1st step).
+5. Open command prompt in VS code studio and type "expo start".
+6. It displays a QR code, then scan it through "expo" app available in PlayStore.
+7. You will get an interface whick looks like this "https://drive.google.com/file/d/1-6G_mSJOCqeo3gmI2UH0R0CaXv3bBfok/view?usp=drivesdk" --> download the app using the link.
+
+
+                                                                     OR
+
+--------------------------------------------------------------------Procedure 2---------------------------------------------------------------------------
+1. Use 1st link to download compressed file and then extract it.
+2. Install "Node" in windows.
+3. Type "npm install --global expo-cli" in command prompt.
+4. Open visual code studio in "Cost-Weight-Alert-Box/app/" directory (Which is extracted in 1st step) and copy code from App.js
+5. Create new folder from VS code studio.
+6. Open Terminal and type "expo init" and press Enter.
+7. Type the name of your app (for example: myapp).
+8. Choose "Blank" type and press Enter.
+9. Type "cd myapp" (created in step 7) and press Enter.
+10. Open "App.js" file and clear all the code and paste it with copied code(in step 4) and save it.
+11. In terminal type "expo start"
+12. It displays a QR code, then scan it through "expo" app available in PlayStore.
+13. You will get an interface whick looks like this "https://drive.google.com/file/d/1-6G_mSJOCqeo3gmI2UH0R0CaXv3bBfok/view?usp=drivesdk" --> download the app using the link.
